@@ -1,4 +1,4 @@
-# FIR Filter Task 4 - CodTech Internship
+# Digital FIR Filter Task 4 - CodTech Internship
 
 This is my FIR filter project for codtech internship. I wrote Verilog code for a simple 4-tap FIR filter and created a testbench to test it.
 
